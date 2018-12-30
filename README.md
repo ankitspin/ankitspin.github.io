@@ -1,2 +1,1 @@
-# ankitspin.github.io
-Personal Webpage
+# manishkk.github.io
